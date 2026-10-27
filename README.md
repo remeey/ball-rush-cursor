@@ -1,6 +1,6 @@
 # Ball Rush Cursor
 
-A dark Windows pointer with a bright cyan outline and white highlight.
+A stylized 48-pixel Windows arrow with layered cyan and violet edging, a subtle neon glow, and a small sparkle.
 
 ## Downloads
 
