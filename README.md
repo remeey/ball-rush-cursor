@@ -4,8 +4,8 @@ A dark Windows pointer with a bright cyan outline and white highlight.
 
 ## Downloads
 
-- [Download the ZIP](BallRushPointer.zip)
-- [Download the cursor file](BallRushPointer.cur)
+- [Download the ZIP](https://raw.githubusercontent.com/remeey/ball-rush-cursor/main/BallRushPointer.zip)
+- [Download the cursor file](https://raw.githubusercontent.com/remeey/ball-rush-cursor/main/BallRushPointer.cur)
 
 ## Install on Windows
 
